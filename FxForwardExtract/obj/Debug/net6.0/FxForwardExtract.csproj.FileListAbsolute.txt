@@ -1,0 +1,17 @@
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\bin\Debug\net6.0\FxForwardExtract.exe
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\bin\Debug\net6.0\FxForwardExtract.deps.json
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\bin\Debug\net6.0\FxForwardExtract.runtimeconfig.json
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\bin\Debug\net6.0\FxForwardExtract.dll
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\bin\Debug\net6.0\FxForwardExtract.pdb
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.csproj.AssemblyReference.cache
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.csproj.ResolveComReference.cache
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.AssemblyInfoInputs.cache
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.AssemblyInfo.cs
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.csproj.CoreCompileInputs.cache
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.dll
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\refint\FxForwardExtract.dll
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.pdb
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\FxForwardExtract.genruntimeconfig.cache
+C:\Users\nursara\source\repos\fxforward-basics\FxForwardExtract\obj\Debug\net6.0\ref\FxForwardExtract.dll
